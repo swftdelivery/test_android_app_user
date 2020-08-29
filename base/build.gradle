@@ -11,29 +11,17 @@ android {
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
-'''
-        resValue("string", "app_name", "Tuddo")
+
+        resValue("string", "app_name", "SWFT User")
         resValue("string", "facebook_app_id", "569823407098158")
         resValue("string", "facebook_accountkit_id", "86a614c0d50f8e010c15b3b92a26dfb4")
         resValue("string", "fb_login_protocol_scheme", "fb569823407098158")
-        resValue("string", "google_map_key", "AIzaSyBufiH5tq54UvegWnoqKt0WzLMRXckO6f4")
+        resValue("string", "google_map_key", "AIzaSyCmaKp7kd0c6-pumd2tnPxFF7Kv8_O1djA")
         resValue("string", "google_signin_server_client_id", "699394090095-k99e01bojpfh18p4le4h29fukip7f24j.apps.googleusercontent.com")
         resValue "string", "default_notification_channel_id", "fcm_default_channel"
 
         buildConfigField "boolean", "ENABLE_TIMER_CALL", "false"
-        buildConfigField "String", "BASE_URL", '"https://api.tuddo.app/"'
-        buildConfigField("String", "SALT_KEY", '"MQ=="')
-'''
-        resValue("string", "app_name", "GoX")
-        resValue("string", "facebook_app_id", "394261008038577")
-        resValue("string", "facebook_accountkit_id", "86a614c0d50f8e010c15b3b92a26dfb4")
-        resValue("string", "fb_login_protocol_scheme", "fb394261008038577")
-        resValue("string", "google_map_key", "AIzaSyBcStv7uetmePVDgErMHgc_q6e46SPVy0Q")
-        resValue("string", "google_signin_server_client_id", "617035269719-97n9bog7svfrloqfv7rv2rbq04se2k2u.apps.googleusercontent.com")
-        resValue "string", "default_notification_channel_id", "fcm_default_channel"
-
-        buildConfigField "boolean", "ENABLE_TIMER_CALL", "true"
-        buildConfigField "String", "BASE_URL", '"https://api.gox.services/"'
+        buildConfigField "String", "BASE_URL", '"https://api.swftd.uk/"'
         buildConfigField("String", "SALT_KEY", '"MQ=="')
     }
 

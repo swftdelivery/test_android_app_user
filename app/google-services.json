@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "617035269719",
-    "firebase_url": "https://android-doztech.firebaseio.com",
-    "project_id": "android-doztech",
-    "storage_bucket": "android-doztech.appspot.com"
+    "project_number": "49893080024",
+    "firebase_url": "https://gox-app-f26ff.firebaseio.com",
+    "project_id": "gox-app-f26ff",
+    "storage_bucket": "gox-app-f26ff.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617035269719:android:05328f6d478ce6f493c512",
+        "mobilesdk_app_id": "1:49893080024:android:9938bae7cc8e54da40d0ad",
         "android_client_info": {
-          "package_name": "com.gox.app"
+          "package_name": "com.goxapp.appcliente"
         }
       },
       "oauth_client": [
         {
-          "client_id": "617035269719-97n9bog7svfrloqfv7rv2rbq04se2k2u.apps.googleusercontent.com",
+          "client_id": "49893080024-5sui0k2iv989rb2jdhl63mms9mirfdfe.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.gox.app",
-            "certificate_hash": "8eeefe237566875adfb76e7e2dee00709eb8bfd6"
+            "package_name": "com.goxapp.appcliente",
+            "certificate_hash": "cfd2a5e31176f682b0f55ffd43cb3e717b667956"
           }
         },
         {
-          "client_id": "617035269719-r2rn113n4q0msjdht45gad7h1pq7c08v.apps.googleusercontent.com",
+          "client_id": "49893080024-g2aammphdjqgiie2qq4krf85f4qhtrin.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCwcR1dabJ-Yvbpd5I7lah0JIvhrZuoDXE"
+          "current_key": "AIzaSyDXHmJebA3netmF0HG2jYy__dG3jCcUfUQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "617035269719-r2rn113n4q0msjdht45gad7h1pq7c08v.apps.googleusercontent.com",
+              "client_id": "49893080024-g2aammphdjqgiie2qq4krf85f4qhtrin.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,35 +45,72 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617035269719:android:b8398099436de20493c512",
+        "mobilesdk_app_id": "1:49893080024:android:0ddbe7b2da3a0ecf40d0ad",
         "android_client_info": {
-          "package_name": "com.tuddo.app"
+          "package_name": "com.goxapp.appentregador"
         }
       },
       "oauth_client": [
         {
-          "client_id": "617035269719-rkvn3f3fn4kh376almfanj3jda95alme.apps.googleusercontent.com",
+          "client_id": "49893080024-pd4sgu3q2tj5543dc7uqn3en0d9m91jh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.tuddo.app",
-            "certificate_hash": "8eeefe237566875adfb76e7e2dee00709eb8bfd6"
+            "package_name": "com.goxapp.appentregador",
+            "certificate_hash": "cfd2a5e31176f682b0f55ffd43cb3e717b667956"
           }
         },
         {
-          "client_id": "617035269719-r2rn113n4q0msjdht45gad7h1pq7c08v.apps.googleusercontent.com",
+          "client_id": "49893080024-g2aammphdjqgiie2qq4krf85f4qhtrin.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCwcR1dabJ-Yvbpd5I7lah0JIvhrZuoDXE"
+          "current_key": "AIzaSyDXHmJebA3netmF0HG2jYy__dG3jCcUfUQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "617035269719-r2rn113n4q0msjdht45gad7h1pq7c08v.apps.googleusercontent.com",
+              "client_id": "49893080024-g2aammphdjqgiie2qq4krf85f4qhtrin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49893080024:android:f0e7555e831177ac40d0ad",
+        "android_client_info": {
+          "package_name": "com.goxapp.appestabelecimento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49893080024-betb4ptm2q4fv8dso2hfqt13h6an5ipu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goxapp.appestabelecimento",
+            "certificate_hash": "cfd2a5e31176f682b0f55ffd43cb3e717b667956"
+          }
+        },
+        {
+          "client_id": "49893080024-g2aammphdjqgiie2qq4krf85f4qhtrin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHmJebA3netmF0HG2jYy__dG3jCcUfUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49893080024-g2aammphdjqgiie2qq4krf85f4qhtrin.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

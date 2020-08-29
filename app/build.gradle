@@ -8,20 +8,19 @@ android {
     //Test
     signingConfigs {
         release {
-            keyAlias 'com_tuddo_app'
-            keyPassword 'com_tuddo_app'
-            storeFile file('jks/com_tuddo_app.jks')
-            storePassword 'com_tuddo_app'
+            keyAlias 'key0'
+            keyPassword '779500'
+            storeFile file('/home/ubuntu/key.jks')
+            storePassword '779500'
         }
     }
 
     compileSdkVersion 28
     defaultConfig {
-       // applicationId "com.tuddo.app"
-        applicationId "com.gox.app"
+        applicationId "com.goxapp.appcliente"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 2
+        versionCode 1
         versionName "1.0"
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true

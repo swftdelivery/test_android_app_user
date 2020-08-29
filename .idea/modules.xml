@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app-app.iml" filepath="$PROJECT_DIR$/app/app-app.iml" group="app/app" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" group="app/base" />
+      <module fileurl="file://$PROJECT_DIR$/monitorinternet/monitorinternet.iml" filepath="$PROJECT_DIR$/monitorinternet/monitorinternet.iml" group="app/monitorinternet" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" group="app/order" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" group="app/service" />
+      <module fileurl="file://$PROJECT_DIR$/transport/transport.iml" filepath="$PROJECT_DIR$/transport/transport.iml" group="app/transport" />
+    </modules>
+  </component>
+</project>

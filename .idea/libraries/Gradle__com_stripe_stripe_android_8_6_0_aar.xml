@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-android:8.6.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.AndroidStudio3.6/system/caches/transforms-2/files-2.1/91c25e80f2fa553d540af34676fb7f97/jetified-stripe-android-8.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.AndroidStudio3.6/system/caches/transforms-2/files-2.1/91c25e80f2fa553d540af34676fb7f97/jetified-stripe-android-8.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.AndroidStudio3.6/system/caches/transforms-2/files-2.1/91c25e80f2fa553d540af34676fb7f97/jetified-stripe-android-8.6.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.AndroidStudio3.6/system/caches/modules-2/files-2.1/com.stripe/stripe-android/8.6.0/a73803c1b2696646623227f6f73d77492cd52578/stripe-android-8.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.AndroidStudio3.6/system/caches/modules-2/files-2.1/com.stripe/stripe-android/8.6.0/f738a3f02baa6c58b696172ae5ab7254d626a07/stripe-android-8.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
