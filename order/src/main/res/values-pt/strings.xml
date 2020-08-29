@@ -1,0 +1,138 @@
+<resources>
+<string name="restaurants">LOJAS</string>
+    <string name="offers">Ofertas</string>
+    <string name="dummy_resturant_name">Savaoury Sea Shell</string>
+    <string name="dummy_cussine_type">Árabe, Chinnes, Indiana</string>
+    <string name="dummy_offer_text">15% de todos os dummy_offer_textorder</string>
+    <string name="dummy_star_rating">4.2</string>
+    <string name="dummy_restaturant_duration">30 minutos</string>
+    <string name="_200_for_two">R$ 200,00 para dois</string>
+    <string name="rating">Avaliação</string>
+    <string name="timing">Horário</string>
+    <string name="foodie_price">Preço</string>
+    <string name="foodie_price_value">R$ 200,00</string>
+    <string name="items_available">ITENS DISPONÍVEIS</string>
+    <string name="add_ons">Addons</string>
+    <string name="add_symbol"> </string>
+    <string name="dummy_foodie_count_txt">0 itens $ 0</string>
+    <string name="view_cart">VER CARRINHO</string>
+    <string name="schedule">AGENDAR</string>
+    <string name="place_order">PEDIR</string>
+    <string name="ordered_placed">Ordem<font color="#01C6DB">(FD001)</font>inserida com sucesso</string>
+    <string name="delivery_charge">Taxa de entrega</string>
+    <string name="coupon">Cupom</string>
+    <string name="view">Aplicar cupom</string>
+    <string name="total_charge">Valor Total do Pedido</string>
+    <string name="foodie_delivery_address">ENDEREÇO DE ENTREGA</string>
+    <string name="foodie_change">MUDAR</string>
+    <string name="foodie_home_address">Endereço residencial</string>
+    <string name="dummy_address">12A, São Paulo, Fortaleza, Aracati</string>
+    <string name="foodie_payment">FORMA DE PAGAMENTO</string>
+    <string name="dummy_card_num">xxxx xxxx xxxx 1234</string>
+    <string name="extra_charges_may_apply">Poderão ser aplicados custos adicionais</string>
+    <string name="dummy_price">R$ 10,00</string>
+    <string name="card_name">Nome do cartão</string>
+    <string name="order_id">ID do pedido:</string>
+    <string name="otp">SMS</string>
+    <string name="cancel_order">Cancelar pedido</string>
+    <string name="dummy_otp_value">1234</string>
+    <string name="order_processed">Pedido processado</string>
+    <string name="order_is_getting_processed">Entregador chegou à loja</string>
+    <string name="order_delivery">Entrega de pedidos</string>
+    <string name="order_on_the_way">Pedido retirado</string>
+    <string name="order_on_the_way_desb">O entregador retirou seu pedido</string>
+    <string name="delivery_person_details">DETALHES DO ENTREGADOR</string>
+    <string name="shope_details">Detalhes da loja</string>
+    <string name="dummy_number"> 9123345678</string>
+    <string name="order_detail">DETALHE DO PEDIDO</string>
+    <string name="dummy_order_item">Exemplo (1 x US R$ 10)</string>
+    <string name="dummy_coupon_value">VALE 5</string>
+    <string name="foodie_submit">ENVIAR</string>
+    <string name="foodie_leave_your_comments">Deixe o seu comentário</string>
+    <string name="xjek_food">TUDDO Food</string>
+    <string name="cart">Carrinho</string>
+    <string name="restaturants">RESTATURANTES</string>
+    <string name="dishes">PRATOS</string>
+    <string name="order_use_this">USE ISTO</string>
+    <string name="address_delete">Tem certeza de que deseja excluir o endereço?</string>
+    <string name="confirm_location">Confirmar Localização</string>
+    <string name="order_by">Ordenar por</string>
+    <string name="delivery_tag">Entrega</string>
+    <string name="take_away_tag">Retirar</string>
+    <string name="use_wallet_amount">Usar valor da carteira</string>
+    <string-array name="restaturant_type">
+        <item>Todos</item>
+        <item>Vegano</item>
+        <item>Não vegano</item>
+    </string-array>
+    <string name="saved_location">Locais salvos</string>
+    <string name="no_address_found">Nenhum endereço encontrado</string>
+    <string name="show_with_resturant">MOSTRAR RESTAURANTE</string>
+    <string name="pure_veg">Vegano</string>
+    <string name="non_veg">Não Vegano</string>
+    <string name="free_delivery">Entrega grátis</string>
+    <string name="COSUINE">CATEGORIA</string>
+    <string name="apply_filter">APLICAR FILTRO</string>
+    <string name="filter">FILTRO</string>
+    <string name="reset">LIMPAR</string>
+    <string name="no_resturant_found">Nenhum restaurante encontrado</string>
+    <string name="closed">Fechados</string>
+    <string name="rate_the_service">TAXA DE SERVIÇO</string>
+    <string name="cart_empty_msg">O seu carrinho de compras está vazio. Adicione algo do menu</string>
+
+
+    
+    <string name="rate_the_restaurant">TAXA DO RESTAURANTE</string>
+
+    <string name="order_accepted">Pedido aceito</string>
+    <string name="restaurant_confirmation">Aguardando confirmação do restaurante</string>
+    <string name="order_awaiting_sub_label">O entregador será designado em breve</string>
+    <string name="order_accepted_shop">Pedido aceito pela loja</string>
+    <string name="delivery_person_assigned">Entregador designado</string>
+    <string name="order_assigned_delivery">seu pedido foi atribuído ao entregador</string>
+    <string name="service_tax">Taxa de serviço</string>
+    <string name="discount_label">Valor do desconto</string>
+    <string name="package_label">Custos de embalagens</string>
+    <string name="add_new_address">Adicionar novo endereço</string>
+    <string name="flat_number">Número do apartamento</string>
+    <string name="street">rua</string>
+    <string name="landmark">ponto de referência</string>
+    <string name="title">título</string>
+    <string name="eta">CHEGADA</string>
+    <string name="map_track">Acompanhe no Mapa</string>
+    <string name="no_data_found">Nenhum dado encontrado</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="add_note">ADICIONAR OBS</string>
+    <string name="write_a_note">Escreva uma observação</string>
+    <string name="submit">ENVIAR</string>
+    <string name="YourOrdersArePreparinginTheShop">Seus pedidos estão sendo preparados na loja</string>
+    <string name="validTill">Válido até:</string>
+    <string name="items">Itens</string>
+    <string name="mins">min</string>
+    <string name="all_orders">% de todos os pedidos</string>
+    <string name="cash">DINHEIRO</string>
+    <string name="noaddressfoundpleaseaddaddress">Nenhum endereço encontrado. Adicione o endereço.</string>
+    <string name="card">CARTÃO</string>
+    <string name="order_deliverd_sucessfully">Pedido entregue com sucesso</string>
+    <string name="chat_with_delivery_person">Chat</string>
+    <string name="customizable">Personalizado</string>
+    <string name="order_approval">Aprovação do pedido</string>
+    <string name="wait_for_order_approval">Aguardando aprovação da loja</string>
+    <string name="order_status">Status do pedido</string>
+    <string name="order_ready">Pedido pronto</string>
+    <string name="order_ready_for_pickup">Seu pedido está pronto para a coleta.</string>
+
+    <plurals name="numberOfItems">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d itens</item>
+    </plurals>
+    <string name="reason">Razões</string>
+    <string name="order_accepted_by_shop">Seu pedido foi aceito pela loja</string>
+    <string name="repeat_customization">Repita a última personalização usada?</string>
+    <string name="will_choose">EU ESCOLHEREI</string>
+    <string name="repeat">REPETIR ÚLTIMO</string>
+    <string name="no_categories_found">Nenhuma categoria encontrada</string>
+    <string name="shop_discount">Desconto de loja</string>
+    <string name="shop_package_charge">Cobrança da Embalagem</string>
+</resources>

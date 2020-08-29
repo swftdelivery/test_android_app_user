@@ -1,0 +1,86 @@
+<resources>
+<string name="allow">Permitir</string>
+    <string name="deny">Negar</string>
+
+    <string-array name="payment_mode">
+        <item>Dinheiro</item>
+        <item>Cartão</item>
+    </string-array>
+    <string name="edit">Editar</string>
+    <string name="balance">(% .2f)</string>
+    <string name="trans_bal">% .2f</string>
+    <string name="empty_wallet_amount">Digite o valor</string>
+    <string name="chat">Chat</string>
+    <string name="dummy_amount">R$ 15,00</string>
+    <string name="dummy_date">12 ago</string>
+    <string name="add_card">Adicionar cartão</string>
+    <string name="wallet">Carteira Pré Paga</string>
+    <string name="enter_amount">Digite o valor</string>
+    <string name="_50">R$ 50,00</string>
+    <string name="_1000">R$ 1.000,00</string>
+    <string name="_100">R$ 100,00</string>
+    <string name="add_amount">Adicionar valor</string>
+    <string name="amount">Valor</string>
+    <string name="transaction_id">ID da transação</string>
+    <string name="default_wallet_amount">0</string>
+    <string name="manage_address">Gerenciar endereço</string>
+    <string name="address_delete">Tem certeza de que deseja excluir o endereço?</string>
+    <string name="enter_details">Digite os detalhes</string>
+    <string name="no_address_found">Nenhum endereço encontrado</string>
+    <string name="flat_number">Número do apartamento</string>
+    <string name="street">Nome da rua</string>
+    <string name="landmark">Ponto de referência</string>
+    <string name="save_as">Salvar como</string>
+    <string name="title">Título</string>
+    <string name="confirm_location">Confirmar Localização</string>
+    <string name="saved_location">Locais salvos</string>
+    <string name="title_activity_add_address">Adicionar Endereço</string>
+    <string name="dummy_title">Título</string>
+    <string name="dummy_min">12mins</string>
+    <string name="mins">Mins</string>
+    <string name="password_updated">Senha atualizada com sucesso</string>
+    <string name="taxi_bookforsomeone_submit">Enviar</string>
+    <string name="amount_added">Quantidade adicionada com sucesso</string>
+    <string name="transaction">Transação</string>
+    <string name="saved_card">Cartão salvo</string>
+    <string name="row_card_number">XXXX XXXX %s</string>
+    <string name="empty_card">Por favor, escolha um cartão</string>
+    <string name="dummy_transaction_id">abc123asda</string>
+    <string name="add_new_address">Adicionar novo endereço</string>
+    <string name="taxi_leave_your_comments">Deixe seus comentários</string>
+    <string name="delete">Excluir</string>
+    <string name="payment">Forma de pagamento</string>
+    <string name="date">Encontro</string>
+    <string name="no_transaction_found">Nenhuma transação encontrada</string>
+    <string name="valid_title">Digite um título válido</string>
+    <string name="no_services">Nenhum serviço disponível</string>
+    <string name="location_permission_denied">Permissão de local negada</string>
+    <string name="location_permission_rationale">É necessária permissão para obter a localização atual</string>
+    <string name="total_discount">Desconto total</string>
+    <string name="package_charge">Taxa de embalagem</string>
+    <string name="tax_amount">Valor do imposto</string>
+    
+    <string name="NoRoadMapAvailable">Nenhum roteiro disponível…</string>
+    <string name="WayPointLlimitExceeded">Limite excedido…</string>
+    <string name="RoadMapLimitExceeded">Limite local excedido…</string>
+    <string name="InvalidInputs">Entradas inválidas…</string>
+    <string name="MayBeInvalidAPIBillingPendingMethodDeprecated">Pode ser API inválida / cobrança pendente / Método descontinuado…</string>
+    <string name="TooManyRequestlimitExceeded">Excesso de solicitação, limite excedido…</string>
+    <string name="DirectionsServiceNotEnabled">Serviço de rotas não ativado…</string>
+    <string name="ServerError">Erro de servidor…</string>
+    <string name="visa">Visa</string>
+    <string name="status">Status</string>
+
+    <string name="credited">Creditado</string>
+    <string name="depited">Debitado</string>
+    <string name="payment_modes">Tipos de pagamento disponíveis</string>
+    <string name="payments">Pagamentos</string>
+    <string name="choose_payment">Escolha Pagamento</string>
+    <string name="default_amount">0</string>
+    <string name="no_internet_connection">Sem conexão à Internet :(</string>
+    <string name="card_holder_name">Nome do Titular</string>
+    <plurals name="numberOfItems">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d itens</item>
+    </plurals>
+</resources>
